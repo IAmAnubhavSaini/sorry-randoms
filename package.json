@@ -1,6 +1,6 @@
 {
   "name": "sorry-randoms",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Get random values - node module",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "random",
-    "PRNG"
+    "PRNG",
+    "random numbers",
+    "random strings"
   ],
   "author": "Git Faf <git.faf@gmail.com>",
   "license": "MIT",
